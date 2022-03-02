@@ -1,0 +1,12 @@
+/Users/alexeilers/Documents/SD134FT/RepoPatterns/RepoPattern/StreamingContentRepository/bin/Debug/net6.0/StreamingContentRepo.deps.json
+/Users/alexeilers/Documents/SD134FT/RepoPatterns/RepoPattern/StreamingContentRepository/bin/Debug/net6.0/StreamingContentRepo.dll
+/Users/alexeilers/Documents/SD134FT/RepoPatterns/RepoPattern/StreamingContentRepository/bin/Debug/net6.0/ref/StreamingContentRepo.dll
+/Users/alexeilers/Documents/SD134FT/RepoPatterns/RepoPattern/StreamingContentRepository/bin/Debug/net6.0/StreamingContentRepo.pdb
+/Users/alexeilers/Documents/SD134FT/RepoPatterns/RepoPattern/StreamingContentRepository/obj/Debug/net6.0/StreamingContentRepo.csproj.AssemblyReference.cache
+/Users/alexeilers/Documents/SD134FT/RepoPatterns/RepoPattern/StreamingContentRepository/obj/Debug/net6.0/StreamingContentRepo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexeilers/Documents/SD134FT/RepoPatterns/RepoPattern/StreamingContentRepository/obj/Debug/net6.0/StreamingContentRepo.AssemblyInfoInputs.cache
+/Users/alexeilers/Documents/SD134FT/RepoPatterns/RepoPattern/StreamingContentRepository/obj/Debug/net6.0/StreamingContentRepo.AssemblyInfo.cs
+/Users/alexeilers/Documents/SD134FT/RepoPatterns/RepoPattern/StreamingContentRepository/obj/Debug/net6.0/StreamingContentRepo.csproj.CoreCompileInputs.cache
+/Users/alexeilers/Documents/SD134FT/RepoPatterns/RepoPattern/StreamingContentRepository/obj/Debug/net6.0/StreamingContentRepo.dll
+/Users/alexeilers/Documents/SD134FT/RepoPatterns/RepoPattern/StreamingContentRepository/obj/Debug/net6.0/ref/StreamingContentRepo.dll
+/Users/alexeilers/Documents/SD134FT/RepoPatterns/RepoPattern/StreamingContentRepository/obj/Debug/net6.0/StreamingContentRepo.pdb
